@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# function that does exactly the same,
+# sh*t as the python bytecode *provided*
 
 
 def magic_calculation(a, b):
